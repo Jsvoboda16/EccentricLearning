@@ -8,21 +8,21 @@ layout: page
 permalink: http://eccentriclearning.com/
 published: true
 boldgrid_in_page_containers:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 boldgrid_page_id:
-  - "258"
+  - 'a:1:{i:0;s:3:"258";}'
 boldgrid_hide_page_title:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 bgseo_title:
-  - Eccentric Learning | Home Page
+  - 'a:1:{i:0;s:30:"Eccentric Learning | Home Page";}'
 bgseo_description:
-  - 'Welcome to the home page of Eccentric Learning!  Here you can take a look at our main page, meet the team behind eccentric learning, or even see a demo!'
+  - 'a:1:{i:0;s:152:"Welcome to the home page of Eccentric Learning!  Here you can take a look at our main page, meet the team behind eccentric learning, or even see a demo!";}'
 bgseo_robots_index:
-  - index
+  - 'a:1:{i:0;s:5:"index";}'
 bgseo_robots_follow:
-  - follow
+  - 'a:1:{i:0;s:6:"follow";}'
 bgseo_custom_keyword:
-  - individualized education
+  - 'a:1:{i:0;s:24:"individualized education";}'
 ---
 <div class="boldgrid-section">
 <div class="container"></div>
