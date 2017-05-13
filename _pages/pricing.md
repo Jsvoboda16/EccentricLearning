@@ -10,11 +10,11 @@ published: true
 boldgrid_hide_page_title:
   - "1"
 boldgrid_in_page_containers:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 bgseo_robots_index:
-  - index
+  - 'a:1:{i:0;s:5:"index";}'
 bgseo_robots_follow:
-  - follow
+  - 'a:1:{i:0;s:6:"follow";}'
 ---
 <div class="boldgrid-section">
 <div class="container">
@@ -99,7 +99,7 @@ Schools and districts have to best opportunity through Eccentric Learning. Havin
 <div class="col-md-6 col-xs-12 col-sm-12">
 <h4 style="text-align: center;">H<span style="text-transform: lowercase;">ave a question you need answered?</span></h4>
 &nbsp;
-<h5 style="text-align: center;"><a class="button-secondary" href="http://eccentriclearning.com/">Questions?</a></h5>
+<h5 style="text-align: center;"><a class="button-secondary" href="http://eccentriclearning.com/contact-us">Questions?</a></h5>
 </div>
 </div>
 <div class="row">
