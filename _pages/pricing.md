@@ -10,11 +10,7 @@ published: true
 boldgrid_hide_page_title:
   - "1"
 boldgrid_in_page_containers:
-  - 'a:1:{i:0;s:1:"1";}'
-bgseo_robots_index:
-  - 'a:1:{i:0;s:5:"index";}'
-bgseo_robots_follow:
-  - 'a:1:{i:0;s:6:"follow";}'
+  - "1"
 ---
 <div class="boldgrid-section">
 <div class="container">
