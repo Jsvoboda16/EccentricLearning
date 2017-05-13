@@ -11,6 +11,10 @@ boldgrid_hide_page_title:
   - "1"
 boldgrid_in_page_containers:
   - "1"
+bgseo_robots_index:
+  - index
+bgseo_robots_follow:
+  - follow
 ---
 <div class="boldgrid-section">
 <div class="container">
