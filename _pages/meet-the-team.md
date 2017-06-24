@@ -9,19 +9,19 @@ permalink: >
   http://eccentriclearning.com/meet-the-team/
 published: true
 boldgrid_hide_page_title:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 boldgrid_in_page_containers:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 bgseo_title:
-  - Meet the Team behind Eccentric Learning
+  - 'a:1:{i:0;s:39:"Meet the Team behind Eccentric Learning";}'
 bgseo_description:
-  - 'Education is the foundation of a productive and successful society.  Meet the team behind Eccentric Learning and take a look at the team behind the program.'
+  - 'a:1:{i:0;s:156:"Education is the foundation of a productive and successful society.  Meet the team behind Eccentric Learning and take a look at the team behind the program.";}'
 bgseo_robots_index:
-  - index
+  - 'a:1:{i:0;s:5:"index";}'
 bgseo_robots_follow:
-  - follow
+  - 'a:1:{i:0;s:6:"follow";}'
 bgseo_custom_keyword:
-  - Meet the Team
+  - 'a:1:{i:0;s:13:"Meet the Team";}'
 ---
 <div class="boldgrid-section">
 <div class="container">
