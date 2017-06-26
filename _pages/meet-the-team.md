@@ -20,6 +20,8 @@ bgseo_robots_follow:
   - follow
 bgseo_custom_keyword:
   - Meet the Team
+bgseo_description:
+  - 'Meet the Team behind Eccentric Learning!  Education is the foundation of a productive and successful society and were here to make that better'
 ---
 <div class="boldgrid-section">
 <div class="container">
